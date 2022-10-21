@@ -21,9 +21,6 @@ Meta Fun Arcade Game is metaverse mini world, where user can dance with other pl
 ### Smart Contract Address : 0xE78261e9352231a39af92B619C02889E78eaaE7F
 Blockchain: Polygon - Testnet : https://mumbai.polygonscan.com/address/0xE78261e9352231a39af92B619C02889E78eaaE7F
 
-### Chainlink Smart Contract Address : 0xAA44fa499DfD16b6BB5141b53903D82Fdfc7cEE3
-Blockchain: Polygon - Testnet : https://mumbai.polygonscan.com/address/0xAA44fa499DfD16b6BB5141b53903D82Fdfc7cEE3
-
 ### Meta Arcade Game - (Play - Dance - Challenge)
 ![Metaverse Game](/Images/Metaverse.jpg)
 
