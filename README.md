@@ -24,13 +24,6 @@ Blockchain: Polygon - Testnet : https://mumbai.polygonscan.com/address/0xE78261e
 ### Chainlink Smart Contract Address : 0xAA44fa499DfD16b6BB5141b53903D82Fdfc7cEE3
 Blockchain: Polygon - Testnet : https://mumbai.polygonscan.com/address/0xAA44fa499DfD16b6BB5141b53903D82Fdfc7cEE3
 
-### Valist Game Listing : https://app.valist.io/tgs/hanging_tower
-
-
-### Decentralized IPFS/Filecoin hosting
-https://spheron.infura-ipfs.io/ipfs/Qmf3N91GnUoQXBjkURfMQE8VvpBGK9UxiiTXVD5fRghLxq/
-
-
 ### Meta Arcade Game - (Play - Dance - Challenge)
 ![Metaverse Game](/Images/Metaverse.jpg)
 
